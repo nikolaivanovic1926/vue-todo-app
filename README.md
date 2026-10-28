@@ -1,38 +1,31 @@
-# todo-app
+# Vue ToDo App
 
-This template should help get you started developing with Vue 3 in Vite.
+A simple task management app built with Vue 3 and Vite as part of the ITAcademy course.
 
-## Recommended IDE Setup
+## Features
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
 
-## Recommended Browser Setup
+## Tech Stack
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+- Vue 3
+- Vite
+- JavaScript, HTML, CSS
 
-## Customize configuration
+## Getting Started
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+1. Clone the repository:
+   git clone https://github.com/nikolaivanovic1926/vue-todo-app.git
+2. Go to the project folder:
+   cd vue-todo-app
+3. Install dependencies:
+   npm install
+4. Start the development server:
+   npm run dev
 
-## Project Setup
+## Author
 
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+Nikola Ivanović
+GitHub: https://github.com/nikolaivanovic1926
